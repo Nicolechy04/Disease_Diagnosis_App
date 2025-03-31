@@ -1,6 +1,6 @@
-# 🚑 Medical Diagnosis App
+# 🚑 MediWell (Medical Diagnosis App)
 
-The **Medical Diagnosis App** helps users identify potential diseases based on their symptoms. Users can select the affected part of their body and enter their symptoms, and our trained model will analyze the input to predict the probability of possible diseases.
+The **MediWell (Medical Diagnosis App)** helps users identify potential diseases based on their symptoms. Users can select the affected part of their body and enter their symptoms, and our trained model will analyze the input to predict the probability of possible diseases.
 
 **🔥 Features**
 
